@@ -25,3 +25,16 @@ What do I bring to the table:
 <br />
 
 ---
+
+### 🔎 Learning
+
+#### 📚 Reading:
+- [Basic Computer Architecture](https://www.amazon.com/Basic-Computer-Architecture-Smruti-Sarangi/dp/1636403034)
+
+#### ⌨️ Courses:
+- [Golang](https://www.boot.dev/u/kuroashi)
+
+#### 🧙🏻 Boot.dev highlights:
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/7f013920-24af-44a1-ae36-22404d55cdfb/thumbnail" >
+</p>
