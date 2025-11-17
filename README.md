@@ -35,6 +35,6 @@ What do I bring to the table:
 - [Golang](https://www.boot.dev/u/kuroashi)
 
 #### 🧙🏻 Boot.dev highlights:
-<p align="left">
+<p align="center">
   <img src="https://api.boot.dev/v1/users/public/7f013920-24af-44a1-ae36-22404d55cdfb/thumbnail" >
 </p>
