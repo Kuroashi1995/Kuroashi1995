@@ -22,7 +22,6 @@ I'm always doing my best to keep moving forward. It's a maker's dream to see you
 <img align="left" alt="django" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg"/>
 <br />
 <br />
-<br />
 
 ---
 
